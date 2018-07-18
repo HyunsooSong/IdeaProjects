@@ -5,7 +5,7 @@ public class Operators {
         System.out.println(2 * 5);
         System.out.println(6 / 2);
 
-        //special cases
+        // special cases
         System.out.println(5 / 2);
         System.out.println(5 % 2);
     }
